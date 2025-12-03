@@ -1,0 +1,7 @@
+Este projeto foi desenvolvido integralmente no Excel utilizando Power Query para limpeza e padronização dos dados, tabelas dinâmicas para análise descritiva, gráficos para visualização e funções estatísticas para construção de previsões de curto prazo.
+
+Foram aplicados dois métodos de forecasting: Média Móvel (3 meses) e Regressão Linear. Um holdout de 6 meses foi construído para avaliar a acurácia dos modelos, resultando em MAPE de 43%, MSE de 5,33 × 10¹⁴ e RMSE aproximado de R$ 23 milhões. Tais métricas mostram que modelos simples não capturam a volatilidade da série.
+
+A análise diagnóstica utilizou Pareto, sazonalidade e comparação de anos. A prescritiva consolidou recomendações práticas, como inclusão de variáveis externas, testes com modelos mais robustos (ARIMA, Prophet) e revisão de processos internos para reduzir variabilidade.
+
+O dashboard final está organizado em abas protegidas, facilitando navegação e evitando alterações acidentais. Este projeto demonstra domínio de análise exploratória, preparação de dados, visualização, métricas de erro, storytelling analítico e construção de dashboards profissionais.
